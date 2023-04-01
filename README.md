@@ -1,6 +1,6 @@
 # Assignment 4: Search Engine 
 
-This is a longer group project! Here are the [Project Instructions](Project_Instructions.pdf).
+This is a longer project! Here are the [Project Instructions](Project_Instructions.pdf).
 
 
 **Objectives:**
